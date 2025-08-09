@@ -1,4 +1,4 @@
-<img width=100% title="Ashik Kirmani" alt="Ashik Kirmani" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ASHIK%20KIRMANI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Sameer Kagitala" alt="Sameer Kagitala" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ASHIK%20KIRMANI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!--
 <h1 align="center">
@@ -14,16 +14,16 @@
 -->
   
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashikkirmani011&label=Visitors&color=0e75b6&style=flat" alt="The-Young-Programmer" /> <img src="https://img.shields.io/github/followers/Ashikkirmani011?label=Followers&style=flat&color=0e75b6" alt="The Young Programmer"/>
- <a href="https://github.com/Ashikkirmani011?tab=repositories&sort=stargazers">
+  <img src="https://komarev.com/ghpvc/?username=shaiksameersameer&label=Visitors&color=0e75b6&style=flat" alt="The-Young-Programmer" /> <img src="https://img.shields.io/github/followers/shaiksameersameer?label=Followers&style=flat&color=0e75b6" alt="The Young Programmer"/>
+ <a href="https://github.com/shaiksameersameer?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Ashikkirmani011"/></a>
- <a href="mailto:ashikkirmaniak@gmail.com">
+ <a href="mailto:sameerkagitala@gmail.com">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
   </p>
 
   <p align="center">
-  <a href="https://github.com/mohit-kota"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Problem%20Solver;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;🤝%201%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/shaiksameersameer"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Problem%20Solver;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;🤝%201%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
   
   <!--
@@ -143,9 +143,9 @@
 </h4>
  
  <div align="center">
-<a href="http://www.github.com/Ashikkirmani011"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Ashikkirmani011&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
-<a href="http://www.github.com/Ashikkirmani011"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashikkirmani011&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-<a href="http://www.github.com/Ashikkirmani011"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashikkirmani011&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+<a href="http://www.github.com/shaiksameersameer"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Ashikkirmani011&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
+<a href="http://www.github.com/shaiksameersameer"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashikkirmani011&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href="http://www.github.com/shaiksameersameer"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiksameersameer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
 </div>
 
 <p>
@@ -168,7 +168,7 @@ No Bug No Life.
 <!--END_SECTION:waka-->
 ## 👨🏻‍💻 Coding Profiles
  
-![](https://leetcard.jacoblin.cool/Ashikkirmani011?ext=heatmap) 
+<!--![](https://leetcard.jacoblin.cool/Ashikkirmani011?ext=heatmap) -->
 <!--<img src="https://raw.githubusercontent.com/Ashikkirmani011/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />-->
 
  <!--
@@ -184,15 +184,15 @@ No Bug No Life.
  contact
 </h4>
 <p align="left">
- <a href="https://www.instagram.com/_ashikkirmani_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="20" height="20" /></a>
- <a href="https://www.linkedin.com/in/kirmani-ashik-a049aa224/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a>
- <a href="https://twitter.com/kirmani_ashik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" /></a>
- <a href="https://github.com/Ashikkirmani011" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="20" height="20" /></a></p>
+ <!--<a href="https://www.instagram.com/_ashikkirmani_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="20" height="20" /></a>-->
+ <a href="https://www.linkedin.com/in/sameerkagitala/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a>
+ <!--<a href="https://twitter.com/kirmani_ashik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" /></a>-->
+ <a href="https://github.com/shaiksameersameer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="20" height="20" /></a></p>
 
 
 
 
-<img width=100% title="Ashik Kirmani" alt="Ashik Kirmani"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<img width=100% title="Sameer Kagitala" alt="Sameer Kagitala"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 
 
