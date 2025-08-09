@@ -1,4 +1,4 @@
-<img width=100% title="Sameer Kagitala" alt="Sameer Kagitala" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ASHIK%20KIRMANI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Sameer Kagitala" alt="Sameer Kagitala" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SAMEER%20KAGITALA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!--
 <h1 align="center">
@@ -16,7 +16,7 @@
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shaiksameersameer&label=Visitors&color=0e75b6&style=flat" alt="The-Young-Programmer" /> <img src="https://img.shields.io/github/followers/shaiksameersameer?label=Followers&style=flat&color=0e75b6" alt="The Young Programmer"/>
  <a href="https://github.com/shaiksameersameer?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Ashikkirmani011"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shaiksameersameer"/></a>
  <a href="mailto:sameerkagitala@gmail.com">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
@@ -143,8 +143,8 @@
 </h4>
  
  <div align="center">
-<a href="http://www.github.com/shaiksameersameer"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=Ashikkirmani011&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
-<a href="http://www.github.com/shaiksameersameer"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashikkirmani011&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href="http://www.github.com/shaiksameersameer"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=shaiksameersameer&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
+<a href="http://www.github.com/shaiksameersameer"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiksameersameer&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 <a href="http://www.github.com/shaiksameersameer"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiksameersameer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
 </div>
 
