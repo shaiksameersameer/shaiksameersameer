@@ -1,198 +1,135 @@
-<img width=100% title="Sameer Kagitala" alt="Sameer Kagitala" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SAMEER%20KAGITALA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" title="Sameer Kagitala" alt="Sameer Kagitala" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SAMEER%20KAGITALA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!--
-<h1 align="center">
-🌐 My Web Page 🌐
-</h1>
--->
-
-<!--
- <p align="center">
-  <a href="#"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white"/></a>
-  <a href="#"/><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/></a>
-  </p>
--->
-  
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaiksameersameer&label=Visitors&color=0e75b6&style=flat" alt="The-Young-Programmer" /> <img src="https://img.shields.io/github/followers/shaiksameersameer?label=Followers&style=flat&color=0e75b6" alt="The Young Programmer"/>
- <a href="https://github.com/shaiksameersameer?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shaiksameersameer"/></a>
- <a href="mailto:sameerkagitala@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaiksameersameer&label=Visitors&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/shaiksameersameer?label=Followers&style=flat&color=0e75b6" />
+  <a href="mailto:sameerkagitala@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-informational?style=flat&logo=gmail&color=0e75b6" />
   </a>
-  </p>
-
-  <p align="center">
-  <a href="https://github.com/shaiksameersameer"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Problem%20Solver;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;🤝%201%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://www.linkedin.com/in/sameerkagitala/">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
 </p>
-  
-  <!--
-  <h2 align="center">
- 🎴 My Profile Card 🎴
- </h2>
 
-![Screenshot_20220530-022534](https://user-images.githubusercontent.com/79866006/170902054-b0bdc0cf-d257-425a-981c-1a0219be7b6c.jpg)
--->
-
-<!--
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> 
--->
-
-
-
-
-<!--
-<h4 align="center">
-  👨‍💻 Languages | Tools  👨‍💻
- </h4>
- 
-
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/></a>
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/></a>
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/></a>
-<a href="#"><img src="imgs/cplusplus.png" width="20"/></a>
-<a href="#"><img src="imgs/c.png" width="20"/></a>
-<a href="#"><img src="imgs/jquery.png" width="20"/></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="20" height="20" alt="Angular" /></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="20" height="20"/></a>
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/></a>
-<a href="#"><img src="imgs/django.png" width="20"/></a>
-<a href="#"><img src="imgs/flask.png" width="20"/></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" height="20" alt="Java" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="20" height="20" alt="Kotlin" /></a>
-<a href="#"><img src="imgs/php.png" width="20"/></a>
-<a href="#"><img src="imgs/perl.png" width="20"/></a>
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="20"/></a>
-<a href="#"><img src="imgs/mysql.png" width="20"/></a>
-<a href="#"><img src="imgs/asm.png" width="20"/></a>
-<a href="#"><img src="imgs/github.png" width="20"/></a>
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/></a>
-<a href="#"><img src="imgs/blogger.png" width="20"/></a>
-<a href="#"><img src="imgs/wix.png" width="20"/></a>
-<a href="#"><img src="imgs/wordpress.png" width="20"/></a>
-<a href="#"><img src="imgs/andriod_studio.png" width="20"/></a>
-<a href="#"><img src="imgs/arduino.png" width="20"/></a>
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/></a>
-<a href="#"><img src="imgs/rasberry_pi.png" width="20"/></a>
-<a href="#"><img src="imgs/power_shell.png" width="20"/></a>
-<a href="#"><img src="imgs/bash.png" width="20"/></a>
-<a href="#"><img src="imgs/terminal.png" width="20"/></a>
-<a href="#"><img src="imgs/android_os.png" width="20"/></a>
-<a href="#"><img src="imgs/kali.jpeg" width="20"/></a>
-<a href="#"><img src="imgs/tails.png" width="20"/></a>
-<a href="#"><img src="imgs/windows_os.png" width="20"/></a>
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="20"/></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="20" height="20" alt="Sass" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="20" height="20" alt="Oracle" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="20" height="20" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="20" height="20" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="20" height="20@" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="20" height="20" alt="XD" /></a>
-
-
-
-
-<h4 align="left">
-📖 Currently Learning 📖 
- </h4>
-
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="20" height="20" alt="NodeJS" /></a>
-<a href="#"><img src="imgs/csharp.png" width="20"/></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="20" height="20" alt="Swift" /></a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="20" height="20" alt="Ruby" /></a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="20" height="20" alt="Go" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="20" height="20" alt="Firebase" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="20" height="20" alt="Flutter" /></a>
-
--->
-<!--
-<details> 
- <summary> <h4> 🔰 Some of my projects </h4><hr></summary>
-  <br/>
-
-  <p align="left">
-  <a href="https://github.com/The-Young-Programmer/Math-Quize">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Math-Quize&theme=react&bg_color=0D1117" alt="Math-Quize"></a>
-  <a href="https://github.com/The-Young-Programmer/Hangman-Game">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=Hangman-Game&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
-  <a href="https://github.com/The-Young-Programmer/C-CPP-Programming-Project">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-Programmer&repo=C-CPP-Programming-Project&theme=react&bg_color=0D1117" alt="C/C++"></a>
-  
-  </p>
-
- <p align="left">
-  <a href="https://github.com/The-Young-Programmer?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<p align="center">
+  <a href="https://github.com/shaiksameersameer">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Engineer;AWS+Cloud+Engineer;ETL+Developer;Building+end-to-end+data+pipelines;Always+learning+something+new&font=Fira%20Code&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=22">
+  </a>
 </p>
-</details>
--->
 
-<!--
-## 👨🏻‍💻 Coding Profiles
+---
 
-<a href='https://leetcode.com/mohit_010/'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
-<a href='https://www.codechef.com/users/mohit_010'><img src="https://img.icons8.com/color/48/undefined/codechef.png"/></a>
-<a href='https://auth.geeksforgeeks.org/user/mohit_010/articles'><img src="https://img.icons8.com/color/60/undefined/GeeksforGeeks.png"/></a>
-<a href='https://www.hackerrank.com/mohit_010'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>
-<a href='https://github.com/mohit-kota'></a>
--->
-<!-- <a href='https://github.com/Ayon-SSP'><img src="https://img.icons8.com/bubbles/50/undefined/codechef.png"/></a> -->
-<br>
+## 👋 About Me
 
-<h4 align="center">
-📊 My Github Stats 📊
-</h4>
- 
- <div align="center">
-<a href="http://www.github.com/shaiksameersameer"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=shaiksameersameer&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
-<a href="http://www.github.com/shaiksameersameer"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiksameersameer&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-<a href="http://www.github.com/shaiksameersameer"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiksameersameer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+- 🎓 B.Tech CSE (AI), 2025 graduate  
+- ☁️ Focusing on **Data Engineering & AWS Cloud**  
+- 🧱 I enjoy building **end-to-end data pipelines**: ingestion → ETL → data warehouse → dashboards  
+- 🚀 Currently doing a **Data Engineering internship** and working towards a **full-time role as Data Engineer / Cloud Engineer / ETL Developer**  
+
+---
+
+## 🛠 Tech Stack – Data Engineering & Cloud
+
+**Languages & Query**
+
+- Python (Pandas, PySpark)  
+- SQL (analytical queries, joins, window functions)
+
+**Cloud – AWS**
+
+- Amazon S3, IAM, Lambda  
+- AWS Glue (Jobs, Crawlers, Catalog)  
+- Amazon Redshift (DWH, Spectrum)  
+- Amazon Kinesis (data streams)  
+- AWS CloudWatch, CloudTrail  
+- Amazon QuickSight
+
+**Data Engineering**
+
+- ETL / ELT Pipelines  
+- Data Warehousing & Star Schema  
+- Batch & Streaming Data Pipelines  
+- Apache Spark  
+- Apache Airflow (DAGs, scheduling, monitoring)
+
+**Tools**
+
+- Git & GitHub  
+- VS Code, Jupyter  
+- draw.io (architecture diagrams)
+
+---
+
+## 🔗 Featured Data Engineering Projects
+
+### 1️⃣ E-commerce Data Warehouse – Glue • Redshift • QuickSight  
+**Repo:** [`ecommerce-data-warehouse`](https://github.com/shaiksameersameer/ecommerce-data-warehouse)  
+
+- Designed a **star-schema data warehouse** in Amazon Redshift for e-commerce analytics  
+- Built **Glue ETL jobs** to clean & transform raw S3 data into fact & dimension tables  
+- Created **QuickSight dashboards** for revenue, customer behavior, and product performance  
+
+---
+
+### 2️⃣ AWS ETL Pipeline – Glue • Redshift • Airflow  
+**Repo:** [`aws-etl-glue-redshift-quicksight`](https://github.com/shaiksameersameer/aws-etl-glue-redshift-quicksight)  
+
+- Implemented an **end-to-end ETL workflow** from S3 → Glue → Redshift  
+- Orchestrated jobs using **Apache Airflow** with retries, scheduling, and monitoring  
+- Optimized PySpark transformations and Redshift tables for analytics workloads  
+
+---
+
+### 3️⃣ YouTube Analytics Pipeline – Spark • S3 • Glue • Airflow  
+**Repo:** [`youtube-etl-pipeline`](https://github.com/shaiksameersameer/youtube-etl-pipeline)  
+
+- Built a **PySpark-based pipeline** to process YouTube analytics data  
+- Automated ingestion & transformation using **Airflow DAGs**  
+- Stored curated data in S3 and prepared it for downstream analytics  
+
+---
+
+### 4️⃣ Flight Data ETL – Airflow • Spark  
+**Repo:** [`airflow-spark-flights-etl`](https://github.com/shaiksameersameer/airflow-spark-flights-etl)  
+
+- Created a batch ETL pipeline for flight datasets using **Spark** and **Airflow**  
+- Implemented modular tasks for extraction, transformation, and loading  
+
+---
+
+## 📚 Currently Learning
+
+- Advanced AWS architecture & cost optimization  
+- More real-world **data modeling** patterns  
+- Interview-oriented **SQL & Python** problems  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/shaiksameersameer">
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=shaiksameersameer&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/shaiksameersameer">
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiksameersameer&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/shaiksameersameer">
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiksameersameer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
 </div>
 
-<p>
-<b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
+> **Note:** “Most used languages” only reflects public repos and not full experience.
 
-<!--
-<h2 align="center">
-📊 Quote Of The Day 📊
-</h2>-->
+---
 
-<!--START_SECTION:waka-->
-<!--
-```text
+## 🤝 Contact
 
-No Bug No Life.
+- 📧 Email: **sameerkagitala@gmail.com**  
+- 🔗 LinkedIn: [linkedin.com/in/sameerkagitala](https://www.linkedin.com/in/sameerkagitala/)  
 
-```
--->
-<!--END_SECTION:waka-->
-## 👨🏻‍💻 Coding Profiles
- 
-<!--![](https://leetcard.jacoblin.cool/Ashikkirmani011?ext=heatmap) -->
-<!--<img src="https://raw.githubusercontent.com/Ashikkirmani011/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />-->
+<img width="100%" title="Sameer Kagitala" alt="Sameer Kagitala" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
- <!--
- <img src="https://raw.githubusercontent.com/mohit-kota/cf-stats/main/output/light_card.svg" />
-</a>
-<br/>
-<a href="https://github.com/sudiptob2/cf-stats">
-<img src="https://raw.githubusercontent.com/mohit-kota/cf-stats/main/output/max_rating.svg" />
-<img src="https://raw.githubusercontent.com/mohit-kota/cf-stats/main/output/rating.svg" />
-</a>
--->
-<h4 align="left">
- contact
-</h4>
-<p align="left">
- <!--<a href="https://www.instagram.com/_ashikkirmani_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="20" height="20" /></a>-->
- <a href="https://www.linkedin.com/in/sameerkagitala/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a>
- <!--<a href="https://twitter.com/kirmani_ashik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" /></a>-->
- <a href="https://github.com/shaiksameersameer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="20" height="20" /></a></p>
-
-
-
-
-<img width=100% title="Sameer Kagitala" alt="Sameer Kagitala"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 
 
