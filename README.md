@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/shaiksameersameer">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Engineer;AWS+Cloud+Engineer;ETL+Developer;Building+end-to-end+data+pipelines;Always+learning+something+new&font=Fira%20Code&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer+%7C+AWS+%7C+ETL+Pipelines+%7C+PySpark;Building+end-to-end+data+pipelines;Always+learning+and+improving&font=Fira%20Code&center=true&width=700&height=60&color=58a6ff&vCenter=true&size=22">
   </a>
 </p>
 
@@ -22,38 +22,32 @@
 ## 👋 About Me
 
 - 🎓 B.Tech CSE (AI), 2025 graduate  
-- ☁️ Focusing on **Data Engineering & AWS Cloud**  
-- 🧱 I enjoy building **end-to-end data pipelines**: ingestion → ETL → data warehouse → dashboards  
-- 🚀 Currently doing a **Data Engineering internship** and working towards a **full-time role as Data Engineer / Cloud Engineer / ETL Developer**  
+- ☁️ Focused on **Data Engineering & AWS Cloud**  
+- 🧱 Build **end-to-end data pipelines**: ingestion → ETL → warehouse → analytics  
+- 🚀 Currently working as an **AWS Data Engineering Intern**  
 
 ---
 
-## 🛠 Tech Stack – Data Engineering & Cloud
+## 🛠 Tech Stack
 
 **Languages & Query**
-
 - Python (Pandas, PySpark)  
-- SQL (analytical queries, joins, window functions)
+- SQL (joins, window functions, analytics queries)
 
 **Cloud – AWS**
-
 - Amazon S3, IAM, Lambda  
 - AWS Glue (Jobs, Crawlers, Catalog)  
-- Amazon Redshift (DWH, Spectrum)  
-- Amazon Kinesis (data streams)  
+- Amazon Redshift (Data Warehouse)  
 - AWS CloudWatch, CloudTrail  
-- Amazon QuickSight
 
 **Data Engineering**
-
 - ETL / ELT Pipelines  
 - Data Warehousing & Star Schema  
-- Batch & Streaming Data Pipelines  
+- Batch Processing & Data Pipelines  
 - Apache Spark  
 - Apache Airflow (DAGs, scheduling, monitoring)
 
 **Tools**
-
 - Git & GitHub  
 - VS Code, Jupyter  
 - draw.io (architecture diagrams)
@@ -62,46 +56,40 @@
 
 ## 🔗 Featured Data Engineering Projects
 
-### 1️⃣ E-commerce Data Warehouse – Glue • Redshift • QuickSight  
-**Repo:** [`ecommerce-data-warehouse`](https://github.com/shaiksameersameer/ecommerce-data-warehouse)  
+### 1️⃣ AWS ETL Pipeline – Glue • Redshift • Airflow  
+**Repo:** [aws-etl-glue-redshift-quicksight](https://github.com/shaiksameersameer/aws-etl-glue-redshift-quicksight)  
 
-- Designed a **star-schema data warehouse** in Amazon Redshift for e-commerce analytics  
-- Built **Glue ETL jobs** to clean & transform raw S3 data into fact & dimension tables  
-- Created **QuickSight dashboards** for revenue, customer behavior, and product performance  
-
----
-
-### 2️⃣ AWS ETL Pipeline – Glue • Redshift • Airflow  
-**Repo:** [`aws-etl-glue-redshift-quicksight`](https://github.com/shaiksameersameer/aws-etl-glue-redshift-quicksight)  
-
-- Implemented an **end-to-end ETL workflow** from S3 → Glue → Redshift  
-- Orchestrated jobs using **Apache Airflow** with retries, scheduling, and monitoring  
-- Optimized PySpark transformations and Redshift tables for analytics workloads  
+- Built an end-to-end ETL pipeline processing **100k+ records** from S3 → Glue → Redshift  
+- Orchestrated workflows using **Apache Airflow** with scheduling, retries, and monitoring  
+- Optimized PySpark transformations and Redshift schema to improve query performance by **30%**  
+- Designed end-to-end data pipeline architecture for analytics workflows  
 
 ---
 
-### 3️⃣ YouTube Analytics Pipeline – Spark • S3 • Glue • Airflow  
-**Repo:** [`youtube-etl-pipeline`](https://github.com/shaiksameersameer/youtube-etl-pipeline)  
+### 2️⃣ YouTube Analytics Pipeline – Spark • S3 • Glue • Airflow  
+**Repo:** [youtube-etl-pipeline](https://github.com/shaiksameersameer/youtube-etl-pipeline)  
 
-- Built a **PySpark-based pipeline** to process YouTube analytics data  
+- Built a PySpark-based pipeline to process and analyze YouTube engagement datasets  
 - Automated ingestion & transformation using **Airflow DAGs**  
-- Stored curated data in S3 and prepared it for downstream analytics  
+- Stored curated datasets in S3 for scalable analytics and reporting  
+- Enabled analysis of user engagement trends and performance metrics  
 
 ---
 
-### 4️⃣ Flight Data ETL – Airflow • Spark  
-**Repo:** [`airflow-spark-flights-etl`](https://github.com/shaiksameersameer/airflow-spark-flights-etl)  
+### 3️⃣ Flight Data ETL – Airflow • Spark  
+**Repo:** [airflow-spark-flights-etl](https://github.com/shaiksameersameer/airflow-spark-flights-etl)  
 
-- Created a batch ETL pipeline for flight datasets using **Spark** and **Airflow**  
-- Implemented modular tasks for extraction, transformation, and loading  
+- Built a batch ETL pipeline using **PySpark and Airflow**  
+- Designed modular ETL workflows for extraction, transformation, and loading  
+- Processed datasets to generate structured outputs for analysis and reporting  
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced AWS architecture & cost optimization  
-- More real-world **data modeling** patterns  
-- Interview-oriented **SQL & Python** problems  
+- Real-world data modeling patterns  
+- Interview-focused SQL & Python  
 
 ---
 
@@ -109,17 +97,12 @@
 
 <div align="center">
   <a href="https://github.com/shaiksameersameer">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=shaiksameersameer&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" />
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=shaiksameersameer&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" />
   </a>
   <a href="https://github.com/shaiksameersameer">
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiksameersameer&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/shaiksameersameer">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiksameersameer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiksameersameer&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
-
-> **Note:** “Most used languages” only reflects public repos and not full experience.
 
 ---
 
@@ -129,15 +112,3 @@
 - 🔗 LinkedIn: [linkedin.com/in/sameerkagitala](https://www.linkedin.com/in/sameerkagitala/)  
 
 <img width="100%" title="Sameer Kagitala" alt="Sameer Kagitala" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
-
-
-
-
-
-
- 
-
-
-
-
-
