@@ -24,9 +24,17 @@
 - 🎓 B.Tech CSE (AI), 2025 graduate  
 - ☁️ Focused on **Data Engineering & AWS Cloud**  
 - 🧱 Build **end-to-end data pipelines**: ingestion → ETL → warehouse → analytics  
-- 🚀 Currently working as an **AWS Data Engineering Intern**  
+- 🚀 Successfully completed AWS Data Engineer Internship at Conavlytics
 
 ---
+## 💼 Internship Experience
+
+AWS Data Engineer Intern – Conavlytics
+
+• Built ETL pipelines using AWS Glue, S3, Redshift and Apache Airflow  
+• Processed and transformed 100k+ records into analytics-ready datasets  
+• Automated workflow scheduling, monitoring and data validation  
+• Applied AWS best practices for scalable cloud-based data solutions
 
 ## 🛠 Tech Stack
 
